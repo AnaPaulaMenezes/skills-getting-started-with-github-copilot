@@ -161,4 +161,13 @@ footer {
   display: inline-block;
   background: #e3f2fd;
   color: #1565c0;
+  padding: 2px 8px;
+  border-radius: 12px;
+  font-size: 0.95em;
+  margin-right: 4px;
+}
+
+.no-participants {
+  color: #888;
+  font-style: italic;
 }
